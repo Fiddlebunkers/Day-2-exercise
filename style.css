@@ -10,7 +10,7 @@ header {
 article p {
   background-color: yellow;
   font-family: cursive;
-  border-radius: 100px;
+  border-radius: 150px;
 }
 
 body header h1 {
@@ -21,7 +21,19 @@ section widget h4 {
   border-radius: 5px;
 
 }
+
 footer {
   color: red;
 }
 
+#favecolor {
+  color: #FFE135;
+}
+
+section p {
+  font-family: serif;
+}
+
+.list {
+  list-style-type: square;
+}
